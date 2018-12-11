@@ -22,5 +22,6 @@ public class MessageBox {
         this.msgList.forEach((m) -> {
             System.out.println(m);
         });
+        System.out.println();
     }
 }
